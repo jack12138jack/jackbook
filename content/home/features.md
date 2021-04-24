@@ -3,7 +3,7 @@ widget: featurette
 headless: true
 weight: 20
 title: Features
-subtitle: Document _anything_ ✨
+subtitle:
 feature:
   - icon: book-open
     icon_pack: fas
