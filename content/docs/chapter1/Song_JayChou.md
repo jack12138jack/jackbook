@@ -1,6 +1,6 @@
 ---
-title: Song_JayChou
-linktitle: Song_JayChou
+title: Song JayChou
+linktitle: Song JayChou
 type: book
 date: "2019-05-05T00:00:00+01:00"
 
